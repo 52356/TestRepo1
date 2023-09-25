@@ -1,2 +1,2 @@
 # TestRepo1
-test
+This is a test Repo for validating connection with GIT.
